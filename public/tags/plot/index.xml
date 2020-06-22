@@ -1,30 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>plot on Jose Romeo Villarreal</title>
-    <link>/tags/plot/</link>
-    <description>Recent content in plot on Jose Romeo Villarreal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 May 2020 21:13:14 -0500</lastBuildDate>
-    
-	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Huwawa</title>
-      <link>/2020/05/30/huwawa/</link>
-      <pubDate>Sat, 30 May 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/2020/05/30/huwawa/</guid>
-      <description>About HuwawaHuwawa protects the Cedar Forest,
-His roar is like a flood,
-His mouth is fire,
-His breath is death.
-R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) speed dist Min. : 4.0 Min.</description>
-    </item>
-    
-  </channel>
-</rss>
