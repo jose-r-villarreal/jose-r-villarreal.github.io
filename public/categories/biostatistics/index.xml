@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biostatistics on Jose Romeo Villarreal</title>
+    <link>https://jose-r-villarreal.github.io/categories/biostatistics/</link>
+    <description>Recent content in Biostatistics on Jose Romeo Villarreal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jose-r-villarreal.github.io/categories/biostatistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Odds Ratio as an estimator of Relative Risk</title>
+      <link>https://jose-r-villarreal.github.io/2020/06/21/odds-ratio-as-an-estimator-of-relative-risk/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jose-r-villarreal.github.io/2020/06/21/odds-ratio-as-an-estimator-of-relative-risk/</guid>
+      <description>IntroductionRelative Risk (RR) is a parameter frequently reported in cohort studies. It indicates the risk of a certain outcome with a specific risk factor in relation to a control group without such risk factor. The case-control study design does not allow the the calculation of the RR, so instead the Odds Ratio (OR) is used. When the prevalence of the outcome is low, the OR is a good approximation to the RR.</description>
+    </item>
+    
+  </channel>
+</rss>
