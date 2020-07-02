@@ -2,7 +2,7 @@
 
 Degree | Institution | Graduation
 --- | --- | ---
-Medical Degree | UDEM | July 2017
+Medical Degree | UDEM | August 2017
 Master's Degree in Biomedical Sciences | ITESM | December 2019
 
 ## Publications
