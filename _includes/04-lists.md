@@ -2,8 +2,8 @@
 
 Degree | Institution | Graduation
 --- | --- | ---
-Medical Degree | UDEM | August 2017
-Master's Degree in Biomedical Sciences | ITESM | December 2019
+Medical Doctor | UDEM | August 2017
+Master in Biomedical Sciences | ITESM | December 2019
 
 ## Publications
 1. [Interplay between the Adaptive Immune System and Insulin Resistance in Weight Loss Induced by Bariatric Surgery](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6925764/)
