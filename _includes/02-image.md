@@ -1,1 +1,1 @@
-![photo](https://i1.rgstatic.net/ii/profile.image/855629308624897-1581009332790_Q128/Jose_Villarreal-Calderon.jpg)
+![photo](https://user-images.githubusercontent.com/66225465/164604472-056589d4-4bb4-4350-b918-2140d4088068.jpg)
