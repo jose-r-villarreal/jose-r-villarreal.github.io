@@ -1,6 +1,6 @@
 GitHub: [jose-r-villarreal](https://github.com/jose-r-villarreal)
 
-E-mail: joser.villarreal@udem.edu
+E-mail: rvillarreal92@hotmail.com
 
 ## About me
 
