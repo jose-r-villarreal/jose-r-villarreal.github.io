@@ -1,5 +1,6 @@
 ## Interests
 
-- Weight Loss Surgery
-- Immunometabolism
+- Obesity
+- Diabetes Mellitus
+- Biostatistics
 - Data Visualization
